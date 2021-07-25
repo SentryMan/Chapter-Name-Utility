@@ -23,9 +23,9 @@ public class ChapterNameUtil {
   static final Path inPath = Paths.get("input.txt");
 
   public static void main(String[] args) throws IOException, InterruptedException {
-    try (BufferedWriter bw =
+    try (var bw =
         Files.newBufferedWriter(opPath, StandardOpenOption.CREATE, StandardOpenOption.WRITE)) {
-      final boolean getChapters = false;
+      final var getChapters = false;
 
       if (getChapters) getChapters(bw);
       else addNumbersToFile(bw);
@@ -33,7 +33,7 @@ public class ChapterNameUtil {
   }
 
   private static void addNumbersToFile(BufferedWriter bw) throws IOException {
-    final AtomicInteger i = new AtomicInteger(1);
+    final var i = new AtomicInteger(1);
 
     try (var fileStream = Files.lines(inPath)) {
       fileStream.map(l -> i.getAndIncrement() + ":" + l).forEach(s -> write(bw, s));
@@ -41,9 +41,9 @@ public class ChapterNameUtil {
   }
 
   private static void getChapters(BufferedWriter bw) throws InterruptedException {
-    final CountDownLatch latch = new CountDownLatch(1);
+    final var latch = new CountDownLatch(1);
 
-    final String url = "https://en.wikipedia.org/wiki/List_of_One_Piece_chapters_(595%E2%80%93806)";
+    final var url = "https://en.wikipedia.org/wiki/List_of_One_Piece_chapters_(595%E2%80%93806)";
 
     // output file
 
