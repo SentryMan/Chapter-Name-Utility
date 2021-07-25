@@ -1,0 +1,249 @@
+1:Friends
+2:Karaoke
+3:The Boy Who Bought A Guitar
+4:Snot Rag
+5:Night in the Science Lab
+6:Flag on the Moon
+7:Softball
+8:Digging a Hole
+9:Message
+10:Yukiji
+11:'Amiability'
+12:Otcho
+13:Cho-san
+14:Yama-san 
+15:Humanity's Final Hour
+16:Kamisama
+17:Kiriko's Desk Drawer
+18:Kiriko's Boyfriend 
+19:The Man Behind
+20:The Prophet
+21:Open Your Eyes!!
+22:Hero With A Guitar
+23:Resolve
+24:Confrontation
+25:Brother 
+26:Classmates
+27:Someone Else
+28:Sadakiyo
+29:Airport Bomb
+30:Destiny's Child
+31:And Then...
+32:The Guy in Bangkok
+33:FDP
+34:Flight
+35:Connection
+36:Love and Peace
+37:Rainbow Kid
+38:Light 
+39:Blowup
+40:Secret Headquarters
+41:Robot Conference
+42:King of the Underground
+43:The Darkness Beyond
+44:Call to Arms
+45:Not Alone
+46:Uncle Kenji
+47:Signal
+48:December 31
+49:Final Round
+50:Reunion
+51:Memorial
+52:Detective Chono
+53:Chocho
+54:The Ambitious Duo
+55:Witness
+56:The Real Killer
+57:Umihotaru
+58:Monster
+59:Tunnel
+60:Being Chased
+61:A Powerful Ally
+62:Good Luck Charm
+63:The Last Hope
+64:The Great Escape
+65:A Test of Courage
+66:Escape
+67:Air
+68:Landing
+69:The Fair of Dreams
+70:Koizumi
+71:God's Autograph
+72:Truth
+73:Control Room
+74:Showdown
+75:Fukubei
+76:Entry
+77:Decision
+78:Robot
+79:Kenji's Song
+80:Your Ride
+81:Tomodachi Land
+82:Escape
+83:A Request
+84:Grades
+85:The Plan
+86:The Hanging Hill
+87:Voices Speaking
+88:Don't Look
+89:Nightmare
+90:Real Fight
+91:Rabbit Nabokov
+92:ESP
+93:Confessions
+94:The New Book of Prophecy
+95:On the Pulpit
+96:Savior
+97:The Assassination
+98:The Assassin's Bullet
+99:Ceasefire
+100:Crossroads
+101:Surveillance
+102:A New Teacher
+103:Terrifying Answer
+104:Collector
+105:Soliloquy
+106:Room of a Friend
+107:Boy Without a Face
+108:Boy With a Face
+109:Thunder
+110:An Abyss of Despair
+111:List of Ingredients
+112:The Lie of 1970
+113:Old Friendship
+114:Complete Devotion
+115:Aliens
+116:Sadakiyo's Decision
+117:Ruins
+118:Godzilla
+119:Mother's Words
+120:Yamane-kun
+121:Memories of the Science Room
+122:Different New Year's Eve
+123:Pilgrimage
+124:Self-Destruction
+125:A Secret Connection
+126:Library
+127:Science Room
+128:Under the Alcohol Lamp
+129:Him
+130:Gunshot 1
+131:Gunshot 2
+132:The Real Gunshot
+133:The Face of a Friend
+134:An Unremembered Man
+135:Friend's Death
+136:Round Table Meeting
+137:A Time of Reunions
+138:Confessions in 2003
+139:A Real Man
+140:The Beginning of the End
+141:The Frog Empire Strikes Back 1
+142:The Frog Empire Strikes Back 2
+143:A Quiet Town in Germany
+144:A Stealthily Approaching Terror
+145:New Orders
+146:Memorial
+147:The True 1971
+148:Evil Emperor
+149:Intruder
+150:The Day He Saw Something
+151:The Spoon-bender
+152:Science Room, 1971
+153:Encounter with the Past
+154:Identity
+155:Warped Memories
+156:My Summer Vacation
+157:Youth and Dreams
+158:Trite Prophecies
+159:A Trite Japanese
+160:The Tattooed Man
+161:The Writhing Truth
+162:Bravery in 2001
+163:Farewell in 2001
+164:What A Wonderful World
+165:The Greatest Show on Earth
+166:Gas-Mask Wearing Salesman
+167:Time Limit
+168:Long Live the Expo
+169:Before the Rainbow
+170:Over the Rainbow
+171:The Base of the Rainbow
+172:A True Friend
+173:In the Mirror
+174:The Real Hanging Hill
+175:The Real Ghost
+176:Superhuman
+177:Friend Era
+178:The Pole Vaulter
+179:Modern History
+180:The Imagination of Children
+181:Toy Box
+182:Earth Defense Force
+183:Fight, Katsuo!
+184:Much Despair
+185:The Ice Queen
+186:Where Despair Began
+187:On a Journey
+188:The Weight of the Journey
+189:Officer at the End of the Earth
+190:Song at the End of the Earth
+191:Summer Homework
+192:Meeting at the Crossroad - Cross-counter
+193:Guta Lala, Suda Lala
+194:The-Two Still Alive
+195:Daughter
+196:Everyone's Song
+197:Everyone, Gather
+198:Stand! Because I'm Standing, Joe!!
+199:Encore, Encore!!
+200:World Change Begins
+201:Things That Must Not Be Seen
+202:Things That Must Not Be Heard
+203:Things That Must Not Be Known
+204:The Last Trophy
+205:Doing the Impossible
+206:Ichi the Spade
+207:The Melancholy of Cartoonist Ujiki Tsuneo
+208:The People Who Break Through
+209:The Great Escape
+210:The Magnificent Seven Samurai
+211:Fooooound You!
+212:Behind the Scenes
+213:The Worst Man
+214:The Man Who Came Home
+215:The Important Point
+216:The Time of the Holy Mother
+217:When the Frog Calls
+218:The Lowest Man
+219:Contest for Mankind
+220:Who is Friend!?
+221:Great Power
+222:Especially Me
+223:Which One!?
+224:The Scenario with No Scenario
+225:24 Hours of Mankind
+226:Who Are You
+227:Hide and Seek
+228:The Pope's Messenger
+229:Let's Playyy
+230:The Aliens Arrive
+231:The Friend There and Now
+232:The Sequel to the Book of Prophecy
+233:Only That Remains
+234:Below This Flag
+235:Raise That Flag
+236:Confession of a Mask
+237:After the Confession
+238:The Last Song
+239:People of Tokyo
+240:The Battle
+241:You Will Live
+242:The Masked King
+243:Don't Give the Enemy
+244:The Legendary Detective
+245:Don't Do Anything
+246:The Beginning of Justice
+247:Protector of Justice
+248:The End of the Game
+249:Resolution
